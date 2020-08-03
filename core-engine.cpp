@@ -397,7 +397,7 @@ int main( int argc, char** argv )
 
 					 }
 
-					 //	FOR GAME CONTROL GTA VICE CITY
+					 //	FOR GAME CONTROL GTA VICE CITY 
 					
 					  HWND windowHandle3 = FindWindow(NULL,"GTA: Vice City");
 
