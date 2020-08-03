@@ -1,9 +1,13 @@
 # human-computer-interface
+This project was implemented in 2008 as part of College project which got recognized at National Level. I am going to opensource this project for benefit of people.
+
+The main aim of this project is to provide a more natural interface. The user interface (UI) of the personal computer has evolved from a text-based command line to a graphical interface with keyboard and mouse inputs. Undoubtedly, human-computer interaction will continue to evolve towards more natural forms of input, like human movement recognition. 
+
 This project will provide keyboard & Mouse interface using hand gesture to provide a man-machine interface using a video camera to interpret the American one-handed sign language alphabet and number gestures (plus others for additional keyboard and mouse control). The goal of this project was to create a system to recognize a set of 36 gestures include 26 alphabetic characters (A-Z) and 10 numbers (0-9). We can also control mouse using hand gesture for controlling windows applications such as controlling Media player, Microsoft word, Paint, Games & many other applications.
 This project aim is to provide touchless interface i.e. Keyboard & Mouse control using hand gesture & also provide help to people with special needs (e.g Paralysis) for controlling computer from distance. 
 The system will use a single, color camera mounted above a neutral colored desk surface next to the computer. The output of the camera will be displayed on the monitor. The user will interact with the system by gesturing in the view of the camera. Shape and position information about the hand will be gathered using webcam. 
 
-The main aim of this project is to provide a more natural interface. The user interface (UI) of the personal computer has evolved from a text-based command line to a graphical interface with keyboard and mouse inputs. Undoubtedly, human-computer interaction will continue to evolve towards more natural forms of input, like human movement recognition. 
+
 
 
 Use Case:-
