@@ -1,1 +1,12 @@
+Image captured by webcam is shown in window to perform different gestures in front of webcam. 
 
+Hardware Platform : Pentium 3 processor or above,128 MB RAM,
+Operating System :  Win 98/2000/XP.
+Software component: Microsoft Visual Studio 6.0  
+Libraries: OpenCV
+
+1. Webcam
+2. Monitor
+3. CPU
+4. Webcam Stand
+5. Hand Gloves
