@@ -31,7 +31,7 @@ using namespace std;
 #include<stdlib.h>
 
 
-int mb1=0,mb2=0,moveflag=0,paintflg=0;
+int mb1=0,mb2=0,moveflag=0,paintflg=0; 
 
 IplImage *image = 0, *hsv = 0, *hue = 0, *mask = 0, *backproject = 0, *histimg = 0;
 CvHistogram *hist = 0;
