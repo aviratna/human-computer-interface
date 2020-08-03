@@ -1,5 +1,4 @@
 # human-computer-interface
-This project was implemented in 2008 as part of College project which got recognized at National Level. I am going to opensource this project for benefit of people.
 
 The main aim of this project is to provide a more natural interface. The user interface (UI) of the personal computer has evolved from a text-based command line to a graphical interface with keyboard and mouse inputs. Undoubtedly, human-computer interaction will continue to evolve towards more natural forms of input, like human movement recognition. 
 
