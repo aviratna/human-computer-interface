@@ -26,3 +26,13 @@ Objective:
 5. Control Media Player, Winamp & other application by using hand gesture.  
 6. To provide Gaming interface using hand gesture (E. g NFS, Vice City).
 7. To draw different figures or control paint using hand gesture. 
+
+Scope:
+1. To provide a keyboard interface through hand gesture.
+ 	This part includes designing a system which will design and build a man-machine interface using a video camera to interpret the American one-handed sign language into alphabets and number gestures.
+The goal of this project was to create a system to recognize a set of 36 gestures include 26 alphabetic characters (A-Z) and 10 numbers (0-9).
+
+2. To provide a mouse control through hand gesture.
+	This part includes providing a mouse control interface using hand gesture. We can control mouse movements just by moving hand in different direction. We can perform left mouse button click & right mouse button click by rotation of hand in different direction.  
+
+
