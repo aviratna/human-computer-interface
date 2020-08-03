@@ -1,1 +1,34 @@
-1. 
+Algorithm:
+- Canny Detection Algorithm
+- Fourier Transformation
+- Contour Detection
+- Centroid Distance Method
+- RGB to Grayscale
+- Binary Image translation
+
+Image Processing
+1. Conversion Of RGB color image to Gray scale image. 
+   Image captured through webcam is color image. For removal of unwanted color RGB image is converted to gray.We are taking the average of RGB values & converting it into 1sample colored image.
+2. Thresholding of gray scale image.
+   Thresholding is use for background subtraction i.e subtraction of hand shape of background. Threshold converts image in binary image i.e two colored image Black & white.
+   Black color pixel is having RGB as 0 while white color pixel is having this value as 255.
+   For conversion into binary image threshold is set to some value, if pixel value is greater than that threshold then that pixel is converted into white color or else into black color. In this way we are getting two color image. 
+3. Edge Detection
+   Edge detection is mainly use for capturing important features of image simultaneously removing unwanted data.
+   We are using Canny detection algorithm for finding edge.
+   This algorithm works on the principle of intensity change.
+   i.e when one pixel value jumps from one intensity to another i.e from black to white  it draws edge.
+4. Find Contour
+5. Refinement & Storage  
+6. Find X,Y Coordinate
+7. Invariance to translation
+8. We can not directly store this x, y coordinate because this values changes according to fix coordinate system. To make it invariance to translation use Centroid Distance Method.
+   After finding X,Y coordinate along the edges take summation of all the x, y coordinate and divide it by the total number of pixels we will get centroid x, y.
+   Now subtract each x, y value along the edge from this centroid x, y value & store this values which will be invariant to translation.
+9. Invariance to rotation
+   System should be capable of detecting hand shape even if the hand is rotated. Due to rotation selection of initial point is different which results in shifting of values in array because of which we cant compare live values with the standard stored values.
+   Now to over come this problem implements Fourier descriptor. Property of Fourier Descriptor is that even if the values are shifted the Fourier series that we are getting for both arrays will be same. 
+                                                                
+10. Recognition 
+    Now for recognition we stored the standard set of values for each shape of hand. We are going to compare live set of values with the stored one & on the basis of most resemblance we are going to display specific character.
+
