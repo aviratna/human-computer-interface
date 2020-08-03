@@ -1,0 +1,6 @@
+Windows API for keyboard & Mouse Interface:
+
+In order to type specific character or number on notepad according to specific shape of hand, first we require taking handle of notepad or WordPad then sending keyboard signal i.e hardware signal corresponding to keys to this handle using sendkeys function of WinAPI.
+
+Mouse Control:
+Mousemove function is used for controlling mouse move function without using mouse.
