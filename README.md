@@ -10,3 +10,14 @@ Use Case:-
 2. We can use this system for conversion of sign language of people with special needs into characters
 3. People with specical needs can also use this system for controlling application from distant with less body movements
 4. It can be used to play games just based on hand gesture without need for keyboard & mouse
+
+
+Objective: 
+
+1. Conversion of one handed sign language into alphabets & numbers.
+2. Mouse control movement according to direction of movement of hand
+3. To perform single click on rotation of hand in left direction.
+4. To perform double click on rotation of hand in right direction.
+5. Control Media Player, Winamp & other application by using hand gesture.  
+6. To provide Gaming interface using hand gesture (E. g NFS, Vice City).
+7. To draw different figures or control paint using hand gesture. 
